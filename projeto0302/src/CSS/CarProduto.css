@@ -1,0 +1,39 @@
+.card-product{
+    background-color: white;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 200px;
+    text-align: center;
+    margin: 10px;
+}
+
+.card-image{
+    width: 105%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 4px;
+    margin-bottom: 10px;
+}
+.card-title{
+    font-size: 16px;
+    margin: 5px 0 ;
+    color: rgb(7, 61, 63);
+}
+.card-price{
+font-weight: bold;
+color: brown;
+font-size: 18px;
+}
+
+.card-button{
+background-color: skyblue;
+color: white;
+padding: 8px 12px;
+border: none;
+border-radius: 4px;
+cursor: pointer;
+margin-top: 8px;
+font-size: 13px;
+width: 100%;
+}

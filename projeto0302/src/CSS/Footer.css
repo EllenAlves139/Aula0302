@@ -1,0 +1,19 @@
+.footer-style{
+    background-color: rgb(7, 61, 63);
+   color: white;
+    padding: 20px;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.footer-text-main{
+    margin: 5px;
+    font-size: 0.875rem;
+}
+
+.footer-text-copy{
+  margin: 5px;
+  font-size: 0.75rem;
+  color: #aaa;
+}

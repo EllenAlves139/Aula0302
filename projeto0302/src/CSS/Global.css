@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, sans-serif;
+    margin: 0;
+    color: rgb(145, 197, 199);
+    background-color: gray;
+}
+
+.page-container{
+ max-width: 1200px;
+ margin: 0 auto;
+ padding: 30px;
+}
+
+.card-list-container{
+ display: flex;
+ flex-wrap: wrap;
+ justify-content: center;
+ gap: 20px;
+
+}
+
+.section-title-center{
+color: rgb(145, 197, 199);
+text-align: center;
+margin-bottom: 20px;
+font-size: 1.75rem;
+border-bottom: 2px solid rgb(145, 197, 199);
+padding-bottom: 2px solid rgb(7, 61, 63);
+}
+
+.section-card-container{
+padding: 30px;
+max-width: 800px;
+margin: 0 auto;
+border-radius: 8px;
+background-color: white;
+}

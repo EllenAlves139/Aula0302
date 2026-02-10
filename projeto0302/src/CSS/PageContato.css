@@ -1,0 +1,28 @@
+.contact-input{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    box-sizing: border-box;
+    margin: 10px 0;
+}
+
+.section-card-container textarea{
+    width: 50%;
+    margin: 10px auto;
+    height: 150px;
+    resize: none;
+}
+
+.contact-button{
+    background-color: rgb(7, 61, 63);
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-top: 8px;
+    width: 50%;
+    margin: 10px auto;
+}
